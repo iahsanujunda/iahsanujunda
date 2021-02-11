@@ -18,27 +18,27 @@ I'm Izzuddin Ahsanujunda, but please call me Junda! I'm a **Lead Data Scientist*
 ---
 
 ### Skills for Work
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" />
-<img height="40" src="https://seeklogo.com/images/S/scala-logo-8570724313-seeklogo.com.png" alt="scala logo" />
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="scala logo" />
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="pytorch logo" />
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyterlab logo" />
-<img height="40" src="https://avatars.githubusercontent.com/u/941070?s=280&v=4" alt="aliyun logo" />
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau logo" />
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></code>
+<code><img height="40" src="https://seeklogo.com/images/S/scala-logo-8570724313-seeklogo.com.png" alt="scala logo" /></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="scala logo" /></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="pytorch logo" /></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyterlab logo" /></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/941070?s=280&v=4" alt="aliyun logo" /></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau logo" /></code>
 
 ### Skills for Side Projects
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" />
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" />
-<img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" />
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react logo" />
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis logo" />
-<img height="40" src="https://lh3.googleusercontent.com/proxy/ySJGunBv--aEdMj4l5jjQ8yjedaZqZyLcFvdKiqHo7aNqDllAwtSobJU-jWgcxDpo5_t8dlMj50yc8dnTHZJ9XW2f3VKmaFyWQGNIBLYHizmQT3cry7kvhSfy8PliQ" alt="mogno logo" />
-<img height="40" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="mogno logo" />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" /></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" /></code>
+<code><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" /></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react logo" /></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis logo" /></code>
+<code><img height="40" src="https://lh3.googleusercontent.com/proxy/ySJGunBv--aEdMj4l5jjQ8yjedaZqZyLcFvdKiqHo7aNqDllAwtSobJU-jWgcxDpo5_t8dlMj50yc8dnTHZJ9XW2f3VKmaFyWQGNIBLYHizmQT3cry7kvhSfy8PliQ" alt="mogno logo" /></code>
+<code><img height="40" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="mogno logo" /></code>
 
 ### Currently Getting Familiar
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" />
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="arduino logo" />
-<img height="40" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry logo" />
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" /></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="arduino logo" /></code>
+<code><img height="40" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry logo" /></code>
 
 <!-- Comment -->
 [comment]: <> (Inspired from:)
