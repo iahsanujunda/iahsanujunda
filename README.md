@@ -1,7 +1,7 @@
 <!-- Greeting -->
 # Hey there, I'm Junda! :wave::smiley:
 
-[![Linkedin](https://img.shields.io/badge/-izzuddin.ahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/izzuddinahsanujunda/)
+[![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/izzuddinahsanujunda/)
 [![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izzuddin.ahsanujunda@gmail.com)
 [![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
 
