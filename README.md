@@ -16,7 +16,6 @@ I'm Izzuddin Ahsanujunda, but please call me Junda! I'm a **Lead Data Scientist*
 - 🍰 Fun fact: Me and my wife is a surprisingly good baker, a hobby that we both picked up due to COVID-19 pandemic and turned into business
 
 ---
-
 ### Skills for Work
 <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
 <code><a href="https://www.scala-lang.org/"><img height="40" src="https://seeklogo.com/images/S/scala-logo-8570724313-seeklogo.com.png" alt="scala logo" /></a></code>
@@ -31,7 +30,7 @@ I'm Izzuddin Ahsanujunda, but please call me Junda! I'm a **Lead Data Scientist*
 <code><a href="https://www.typescriptlang.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" /></a></code>
 <code><a href="https://www.javascript.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" /></a></code>
 <code><a href="https://nodejs.org/en/"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" /></a></code>
-<code><a href="https://reactjs.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react logo" /></a></code>
+<code><a href="https://reactjs.org/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" /></a></code>
 <code><a href="https://redis.io/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis logo" /></a></code>
 <code><a href="https://www.mongodb.com/"><img height="40" src="https://lh3.googleusercontent.com/proxy/ySJGunBv--aEdMj4l5jjQ8yjedaZqZyLcFvdKiqHo7aNqDllAwtSobJU-jWgcxDpo5_t8dlMj50yc8dnTHZJ9XW2f3VKmaFyWQGNIBLYHizmQT3cry7kvhSfy8PliQ" alt="mogno logo" /></a></code>
 <code><a href="https://www.docker.com/"><img height="40" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="mogno logo" /></a></code>
