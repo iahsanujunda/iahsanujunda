@@ -39,3 +39,10 @@ I'm Izzuddin Ahsanujunda, but please call me Junda! I'm a **Lead Data Scientist*
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" />
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="arduino logo" />
 <img height="40" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry logo" />
+
+<!-- Comment -->
+[comment]: <> (Inspired from:)
+
+[comment]: <> (https://github.com/JoykishanSharma)
+
+[comment]: <> (https://github.com/sw-yx/sw-yx)
