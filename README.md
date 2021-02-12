@@ -5,8 +5,6 @@
 [![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izzuddin.ahsanujunda@gmail.com)
 [![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
 
----
-
 <!--Introduction -->
 I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models. Outside of work, I run a freelance web development projects.
 
