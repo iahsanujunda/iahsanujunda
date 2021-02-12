@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Hey there, I'm Junda! :wave::smiley:
+# Greetings, I'm Junda! :wave::smiley:
 
 [![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/izzuddinahsanujunda/)
 [![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izzuddin.ahsanujunda@gmail.com)
@@ -8,14 +8,16 @@
 ---
 
 <!--Introduction -->
-I'm Izzuddin Ahsanujunda, but please call me Junda! I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia. I'm also working on several side projects in full-stack web development
+I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models. Outside of work, I run a freelance web development projects.
 
-- 📚 I’m currently learning causal inference extensively
-- 🔭 I'm working on a personal research on realtime embedded systems for waste management
+- 📚 I’m currently learning causal inference extensively for work
+- 🐝 I have worked on several side projects on a web development using MERN stack that is deployed to Heroku
+- 🔭 I'm doing a personal research project on realtime embedded systems for waste management
 - 🌱 I'm looking to get more familiar with GCP ecosystems
 - 🍰 Fun fact: Me and my wife is a surprisingly good baker, a hobby that we both picked up due to COVID-19 pandemic and turned into business
 
 ---
+
 ### Skills for Work
 <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
 <code><a href="https://www.scala-lang.org/"><img height="40" src="https://seeklogo.com/images/S/scala-logo-8570724313-seeklogo.com.png" alt="scala logo" /></a></code>
