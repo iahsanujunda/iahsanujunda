@@ -32,8 +32,8 @@ I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital pa
 <code><a href="https://nodejs.org/en/"><img height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" /></a></code>
 <code><a href="https://reactjs.org/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" /></a></code>
 <code><a href="https://redis.io/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis logo" /></a></code>
-<code><a href="https://www.mongodb.com/"><img height="40" src="https://lh3.googleusercontent.com/proxy/ySJGunBv--aEdMj4l5jjQ8yjedaZqZyLcFvdKiqHo7aNqDllAwtSobJU-jWgcxDpo5_t8dlMj50yc8dnTHZJ9XW2f3VKmaFyWQGNIBLYHizmQT3cry7kvhSfy8PliQ" alt="mogno logo" /></a></code>
-<code><a href="https://www.docker.com/"><img height="40" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="mogno logo" /></a></code>
+<code><a href="https://www.mongodb.com/"><img height="40" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongo logo" /></a></code>
+<code><a href="https://www.docker.com/"><img height="40" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="docker logo" /></a></code>
 
 ### Currently Getting Familiar
 <code><a href="https://isocpp.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" /></a></code>
