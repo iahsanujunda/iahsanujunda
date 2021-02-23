@@ -10,7 +10,7 @@ I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital pa
 
 - 📚 I’m currently learning causal inference extensively for work
 - 🐝 I have worked on several side projects on a web development using MERN stack that is deployed to Heroku
-- 🔭 My wife is very obsessed about zero waste household, so I tried to help her by doing a personal research project on realtime embedded systems for waste management that can be deployed in our home
+- 🔭 My wife is very obsessed about zero waste household, so I'm trying to help her by doing a personal research project on realtime embedded systems for waste management that can be deployed in our home
 - 🌱 I'm looking to get more familiar with GCP ecosystems
 - 🍰 Fun fact: Me and my wife is a surprisingly good baker, a hobby that we both picked up due to COVID-19 pandemic and turned into business
 
