@@ -6,13 +6,13 @@
 [![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
 
 <!--Introduction -->
-I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models mainly to combat payment fraud and provide personalised experience to DANA users. Outside of work, I run freelance web development projects.
+I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models mainly to combat payment fraud and optimize marketing performance. Outside of work, I run freelance web development projects.
 
 - 📚 I’m currently learning causal inference extensively for work
 - 🐝 I have worked on several side projects on a web development using MERN stack that is deployed to Heroku
-- 🔭 My wife is very obsessed about zero waste household, so I'm trying to help her by doing a personal research project on realtime embedded systems for waste management that can be deployed in our home
-- 🌱 I'm looking to get more familiar with GCP ecosystems
-- 🍰 Fun fact: Me and my wife is a surprisingly good baker, a hobby that we both picked up due to COVID-19 pandemic and turned into business
+- 🔭 My wife is very obsessed about zero waste household, so I'm trying to help her by developing an edge device with a bit of deep learning ability for waste management
+- 🌱 I'm adept at using alibaba cloud courtesy to work, but currenly looking to get more familiar with GCP ecosystems for personal projects
+- 🍰 Fun fact: Me and my wife is a surprisingly good baker, a hobby that we both picked up due to COVID-19 quarantines
 
 ---
 
