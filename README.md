@@ -10,7 +10,7 @@ I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital pa
 
 - 📚 I’m currently learning causal inference extensively for work
 - 🐝 I have worked on several side projects on a web development using MERN stack that is deployed to Heroku
-- 🔭 My wife is very obsessed about zero waste household, so I'm trying to help her by developing an edge device with a bit of deep learning ability for waste management
+- 🔭 My wife is very obsessed about zero waste household, so I'm trying to help her by developing a device with a little bit of deep learning on edge ability for waste management. I mainly use [intel OpenVINO toolkit](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) with models built on pytorch
 - 🌱 I'm adept at using alibaba cloud courtesy to work, but currenly looking to get more familiar with GCP ecosystems for personal projects
 - 🍰 Fun fact: Me and my wife is a surprisingly good baker, a hobby that we both picked up due to COVID-19 quarantines
 
