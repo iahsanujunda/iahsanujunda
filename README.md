@@ -6,12 +6,12 @@
 [![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
 
 <!--Introduction -->
-I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models mainly to combat payment fraud and optimize marketing performance. Outside of work, I run freelance web development projects.
+I'm a **Senior Data Scientist** at [Rakuten](https://global.rakuten.com/corp/innovation/technology/), a leading e-commerce platform in Japan with global presence. Outside of work, I run freelance web development projects.
 
-- 📚 I’m currently learning matrix factorization extensively for work
-- 🐝 I have worked on several side projects on a web development using MERN stack that is deployed to Heroku
+- 📚 I’m currently learning causal inference extensively for work
+- 🐝 I have worked on several side projects on a web development using MERN stack that is deployed to Heroku. Altough lately I had way more opportunity to use FastAPI for backend development instead of Express.js, so it is not exactly MERN stack anymore.
 - 🔭 My wife is very obsessed about zero waste household, so I'm trying to help her by developing a device with a little bit of deep-learning-on-edge capability for waste management. I mainly use [intel OpenVINO toolkit](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) with models built on pytorch
-- 🌱 I'm adept at using alibaba cloud courtesy to work, but currenly looking to get more familiar with GCP ecosystems for personal projects
+- 🌱 I’m adept at using Alibaba cloud and Google Cloud Platform courtesy to my daily work experiences.
 - 🍰 Fun fact: Me and my wife is a surprisingly good baker, a hobby that we both picked up due to COVID-19 quarantines
 
 ---
@@ -33,7 +33,7 @@ I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital pa
 <code><a href="https://reactjs.org/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" /></a></code>
 <code><a href="https://redis.io/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis logo" /></a></code>
 <code><a href="https://www.mongodb.com/"><img height="40" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongo logo" /></a></code>
-<code><a href="https://www.docker.com/"><img height="40" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="docker logo" /></a></code>
+<code><a href="https://www.docker.com/"><img height="40" src="img/Docker-Logo-White-RGB_Vertical.webp" alt="docker logo" /></a></code>
 
 ### Currently Getting Familiar
 <code><a href="https://isocpp.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" /></a></code>
