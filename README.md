@@ -6,12 +6,12 @@
 [![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
 
 <!--Introduction -->
-I'm a **Senior Data Scientist** at [Rakuten](https://global.rakuten.com/corp/innovation/technology/), a leading e-commerce platform in Japan with global presence. Outside of work, I run freelance web development projects.
+I'm a **Senior Machine Learning Engineer** at [Rakuten](https://global.rakuten.com/corp/innovation/technology/), a leading e-commerce platform in Japan with global presence. Outside of work, I run freelance web development projects.
 
-- 📚 I’m currently learning causal inference extensively for work
-- 🐝 I have worked on several side projects on a web development using MERN stack that is deployed to Heroku. Altough lately I had way more opportunity to use FastAPI for backend development instead of Express.js, so it is not exactly MERN stack anymore.
+- 📚 I’m currently learning retrieval-augmentation-generation extensively for work
+- 🐝 I have worked on several side projects on a web development using MERN stack that is deployed to Heroku. While at work, I am more focused on using python stack of FastAPI and React.
 - 🔭 My wife is very obsessed about zero waste household, so I'm trying to help her by developing a device with a little bit of deep-learning-on-edge capability for waste management. I mainly use [intel OpenVINO toolkit](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) with models built on pytorch
-- 🌱 I’m adept at using Alibaba cloud and Google Cloud Platform courtesy to my daily work experiences.
+- 🌱 I’m adept at using Alibaba cloud and Google Cloud Platform courtesy to my day-to-day work experiences.
 - 🍰 Fun fact: Me and my wife is a surprisingly good baker, a hobby that we both picked up due to COVID-19 quarantines
 
 ---
