@@ -35,6 +35,7 @@ I'm a **Senior Machine Learning Engineer** at [Rakuten](https://global.rakuten.c
 ### Currently getting familiar with
 
 <code><a href="https://github.com/openmc-dev/openmc"><img height="40" src="img/openmc_logo.webp" alt="openmc logo" /></a></code>
+<code><a href="https://docs.nvidia.com/physicsnemo/latest/index.html"><img height="40" src="img/nvidia-logo.svg" alt="NVidia Physics-Nemo" /></a></code>
 
 <!-- Comment -->
 [comment]: <> (Inspired from:)
